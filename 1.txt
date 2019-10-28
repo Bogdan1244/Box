@@ -2,12 +2,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" сontent="text/html; charset=utf-8">
-<title>Пример веб-страницы<title>
+<title>dhdhdhdhdjd<title>
 </head>
 <body>
-<h1>Заголовок</h1>
-<!-- Коментарии ==>
-<p>Первый абзац.</p>
-<p>Второй абзац.</p>
+<h1>gcgcgvg</h1>
+<!-- bhbhbhb ==>
+<p>hbhbhb jhhuhu.</p>
+<p>bhbhb jkjkk.</p>
 </body>
 </html>
