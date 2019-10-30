@@ -1,0 +1,12 @@
+<html>
+  <head>
+     <title> Перевершення і бум </title>
+     <body>
+     <p style = "background-color:blue;color :yellow" Злобний троль </p>
+ 
+       <p style = "background-color:blue;color :#FF0000" Злобний троль </p>
+       <p style = "background-color:blue;color :#FFFF00" Злобний троль </p>
+     <p style = "background-color:blue;color :#00800" Злобний троль </p>
+     <p style = "background-color:blue;color :#0000FF" Злобний троль </p>
+     </body>
+     </html>
